@@ -1,1 +1,1 @@
-# fcc-sms-text
+# Neural Network SMS Text Classifier (WIP)
